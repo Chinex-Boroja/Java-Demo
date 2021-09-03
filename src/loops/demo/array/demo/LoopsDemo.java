@@ -1,4 +1,4 @@
-package loops.demo;
+package loops.demo.array.demo;
 
 import functions.demo.Demo;
 
